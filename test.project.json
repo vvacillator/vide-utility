@@ -1,0 +1,14 @@
+{
+	"name": "vide-utility-dev",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"Packages": {
+				"$path": "roblox_packages"
+			},
+      "Vide_Utility": {
+        "$path": "App"
+      }
+		}
+	}
+}
